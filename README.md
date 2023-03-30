@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/dx4DOJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, go to Admin Panel, click on Agents, click on Roles, enter name in "Definition" tab, then select the permissions in "Permissions" tab.
+First, go to Admin Panel, click on Agents, click on Roles, enter name (Supreme Admin) in "Definition" tab, then select the permissions in "Permissions" tab.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ First, go to Admin Panel, click on Agents, click on Roles, enter name in "Defini
 <img src="https://i.imgur.com/3Af13VK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Second, click on Departments, enter name under "Department Information".  
+Second, click on Departments, enter name (System Administrators) under "Department Information".  
 </p>
 <br />
 

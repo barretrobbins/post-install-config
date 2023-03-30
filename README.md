@@ -32,6 +32,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 Roles  
+  
+  
 <img src="https://i.imgur.com/dx4DOJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

@@ -47,9 +47,9 @@ Second, go to Admin Panel, click on Agents tab, click on Departments, enter name
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UKx4OVq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, go to Admin Panel, click on Agents tab, click on Teams tab, 
+Finally, go to Admin Panel, click on Agents tab, click on Teams tab, then click Add New Team, and enter name under Team Information.  Then, click on Members tab, Select Agent, and click Create Team.
 </p>
 <br />

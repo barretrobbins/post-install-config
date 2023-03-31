@@ -57,3 +57,11 @@ Finally, go to Admin Panel, click on Agents tab, click on Teams tab, then click 
 <p>
 <img src="https://i.imgur.com/eKFhL27.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/fwQEtJm.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+</p>
+<br />
+
+

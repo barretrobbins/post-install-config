@@ -59,13 +59,15 @@ Finally, go to Admin Panel, click on Agents tab, click on Teams tab, then click 
 </p>
 <p>
 Go to Admin Panel, click on Agents tab, click on Agent (sub) tab, then click Add New Agent, and enter email and name under "Account Tab". Go to "Access Tab", Select Department and Select Role in Primary Department, and then go to "Teams Tab" and Select Team.  Add the team and and create.
+</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/fwQEtJm.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 <p>
-Go to Agent Portal, click on Users tab and click Add User.  Enter email address and full name, then click add user.    
+Go to Agent Portal, click on Users tab and click Add User.  Enter email address and full name, then click add user.   
+</p>
 <br />
 
 <p>
@@ -73,3 +75,10 @@ Go to Agent Portal, click on Users tab and click Add User.  Enter email address 
 <img src="https://i.imgur.com/W9ozkun.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <p>
 Go to Admin Panel, click on Manage tab, click SLA, and click on Add New SLA Plan.  Next, Update SLA Plan: create name, add Grace Period, and select Schedule; click Add Plan.
+</P>
+<br />
+
+<p>
+Configure Help Topics. While in the "Admin Panel", click "Manage" -> "Help Topics" -> "Add New Help Topic". Name the topic "Business Critical Outage", and leave the parent topic as is. Repeat the steps and create more help topics named "Personal Computer Issues", "Equipment Request", and "Password Reset". The osTicket post-installation steps are now complete. 
+</p>
+<br />

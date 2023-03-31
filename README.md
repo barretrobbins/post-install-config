@@ -64,6 +64,8 @@ Go to Admin Panel, click on Agents tab, click on Agent (sub) tab, then click Add
 <p>
 <img src="https://i.imgur.com/fwQEtJm.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
+<p>
+Go to Agent Portal, click on Users tab and click Add User.  Enter email address and full name, then click add user.    
 <br />
 
 

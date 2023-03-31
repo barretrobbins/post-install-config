@@ -68,4 +68,8 @@ Go to Admin Panel, click on Agents tab, click on Agent (sub) tab, then click Add
 Go to Agent Portal, click on Users tab and click Add User.  Enter email address and full name, then click add user.    
 <br />
 
-
+<p>
+<img src="https://i.imgur.com/mzsJ0TD.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src=
+<p>
+Go to Admin Panel, click on Manage tab, click SLA, and click on Add New SLA Plan.  

@@ -57,6 +57,8 @@ Finally, go to Admin Panel, click on Agents tab, click on Teams tab, then click 
 <p>
 <img src="https://i.imgur.com/eKFhL27.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Go to Admin Panel, click on Agents tab, click on Agent (sub) tab, then click Add New Agent, and enter email and name under "Account Tab". Go to "Access Tab", Select Department and Select Role in Primary Department, and then go to "Teams Tab" and Select Team.  Add the team and and create.
 <br />
 
 <p>

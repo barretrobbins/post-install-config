@@ -95,6 +95,7 @@ Go to Admin Panel, click on Manage tab, click SLA, and click on Add New SLA Plan
 7 - Configure Help Topics
 <p>
 <img src="https://i.imgur.com/4XktTq0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Configure Help Topics. While in the "Admin Panel", click "Manage" -> "Help Topics" -> "Add New Help Topic". Name the topic "Business Critical Outage", and leave the parent topic as is. Repeat the steps and create more help topics named "Personal Computer Issues", "Equipment Request", and "Password Reset". The osTicket post-installation steps are now complete. 
 </p>
 <br />

@@ -78,8 +78,8 @@ Go to Agent Portal, click on Users tab and click Add User.  Enter email address 
 
 6 - Configure SLA
 <p>
-<img src="https://i.imgur.com/mzsJ0TD.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
-<img src="https://i.imgur.com/W9ozkun.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/UwYnISn.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/gIXYJjD.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <p>
 Go to Admin Panel, click on Manage tab, click SLA, and click on Add New SLA Plan.  Next, Update SLA Plan: create name, add Grace Period, and select Schedule; click Add Plan.
 </P>

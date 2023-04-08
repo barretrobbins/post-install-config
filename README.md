@@ -26,7 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 2 - Configure Departments
 3 - Configure Teams
 4 - Configure Agents
-5 - Configure SLA
+5 - Configure Users
+6 - Configure SLA
 
 <h2>Configuration Steps</h2>
 
@@ -50,7 +51,7 @@ Second, go to Admin Panel, click on Agents tab, click on Departments, enter name
 
 3 - Configure Teams
 <p>
-<img src="https://i.imgur.com/SKHt0eR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tw9BRoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally, go to Admin Panel, click on Agents tab, click on Teams tab, then click Add New Team, and enter name under Team Information.  Then, click on Members tab, Select Agent, and click Create Team.

@@ -22,22 +22,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Configure Agents
-- Configure SLA
+1 - Configure Roles
+2 - Configure Departments
+3 - Configure Teams
+4 - Configure Agents
+5 - Configure SLA
 
 <h2>Configuration Steps</h2>
 
+1 - Configure Roles
 <p> 
-<img src="https://i.imgur.com/dx4DOJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S7Tpfi0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, go to Admin Panel, click on Agents tab, click on Roles tab, enter name (Supreme Admin) in "Definition" tab, then go to the Permissions tab, select the necessary permissions in the Tickets tab.  Then, go to the Tasks tab and select the necessary tasks.  Finally, go to the Knowledgebase tab, select premade, and click "Add Role".
 </p>
 <br />
 
+2 - Configure Departments
 <p>
 <img src="https://i.imgur.com/3Af13VK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -46,6 +48,7 @@ Second, go to Admin Panel, click on Agents tab, click on Departments, enter name
 </p>
 <br />
 
+3 - Configure Teams
 <p>
 <img src="https://i.imgur.com/tY13YEc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -54,6 +57,7 @@ Finally, go to Admin Panel, click on Agents tab, click on Teams tab, then click 
 </p>
 <br />
 
+4 - Configure Agents
 <p>
 <img src="https://i.imgur.com/eKFhL27.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -70,6 +74,7 @@ Go to Agent Portal, click on Users tab and click Add User.  Enter email address 
 </p>
 <br />
 
+5 - Configure SLA
 <p>
 <img src="https://i.imgur.com/mzsJ0TD.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <img src="https://i.imgur.com/W9ozkun.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
